@@ -1,7 +1,108 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\views\\trainers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\views\\trainers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\views\\sessions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\views\\sessions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\views\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\views\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\views\\sessions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\views\\sessions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\views\\sessions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\views\\sessions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\models\\sessionfilterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\models\\sessionfilterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\models\\trainerfilterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\models\\trainerfilterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\models\\modelfilterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\models\\modelfilterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\data\\bcsh2_semcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\data\\bcsh2_semcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\views\\members\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\views\\members\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\views\\members\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\views\\members\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\views\\trainers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\views\\trainers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\views\\trainers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\views\\trainers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\migrations\\20241212101146_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\migrations\\20241212101146_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|c:\\users\\satte\\documents\\github\\csh2_sem\\bcsh2_sem\\bcsh2_sem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F9B7A6-7F78-4EBC-9493-966E1B299D26}|BCSH2_SEM\\BCSH2_SEM.csproj|solutionrelative:bcsh2_sem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +119,327 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SessionFilterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Models\\SessionFilterViewModel.cs",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Models\\SessionFilterViewModel.cs",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Models\\SessionFilterViewModel.cs",
+              "RelativeToolTip": "BCSH2_SEM\\Models\\SessionFilterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T17:20:45.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Trainers\\Index.cshtml",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Views\\Trainers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Trainers\\Index.cshtml",
+              "RelativeToolTip": "BCSH2_SEM\\Views\\Trainers\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T16:50:10.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TrainerFilterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Models\\TrainerFilterViewModel.cs",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Models\\TrainerFilterViewModel.cs",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Models\\TrainerFilterViewModel.cs",
+              "RelativeToolTip": "BCSH2_SEM\\Models\\TrainerFilterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:48:54.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModelFilterView.cs",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Models\\ModelFilterView.cs",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Models\\ModelFilterView.cs",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Models\\ModelFilterView.cs",
+              "RelativeToolTip": "BCSH2_SEM\\Models\\ModelFilterView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:41:31.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Members\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Views\\Members\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Members\\Edit.cshtml",
+              "RelativeToolTip": "BCSH2_SEM\\Views\\Members\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T15:38:27.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Members\\Create.cshtml",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Views\\Members\\Create.cshtml",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Members\\Create.cshtml",
+              "RelativeToolTip": "BCSH2_SEM\\Views\\Members\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T15:38:14.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Trainers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Views\\Trainers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Trainers\\Edit.cshtml",
+              "RelativeToolTip": "BCSH2_SEM\\Views\\Trainers\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T14:55:35.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Sessions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Views\\Sessions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Sessions\\Edit.cshtml",
+              "RelativeToolTip": "BCSH2_SEM\\Views\\Sessions\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T14:51:34.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Sessions\\Index.cshtml",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Views\\Sessions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Sessions\\Index.cshtml",
+              "RelativeToolTip": "BCSH2_SEM\\Views\\Sessions\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T12:53:43.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Trainers\\Create.cshtml",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Views\\Trainers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Trainers\\Create.cshtml",
+              "RelativeToolTip": "BCSH2_SEM\\Views\\Trainers\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T11:40:37.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Sessions\\Create.cshtml",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Views\\Sessions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Sessions\\Create.cshtml",
+              "RelativeToolTip": "BCSH2_SEM\\Views\\Sessions\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T10:37:55.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BCSH2_SEMContext.cs",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Data\\BCSH2_SEMContext.cs",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Data\\BCSH2_SEMContext.cs",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Data\\BCSH2_SEMContext.cs",
+              "RelativeToolTip": "BCSH2_SEM\\Data\\BCSH2_SEMContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:50:15.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Members\\Index.cshtml",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Views\\Members\\Index.cshtml",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Members\\Index.cshtml",
+              "RelativeToolTip": "BCSH2_SEM\\Views\\Members\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T15:21:13.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Program.cs",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Program.cs",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Program.cs",
+              "RelativeToolTip": "BCSH2_SEM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:38:47.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Models\\SeedData.cs",
+              "RelativeToolTip": "BCSH2_SEM\\Models\\SeedData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:31:44.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BCSH2_SEM\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T10:19:00.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241212101146_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Migrations\\20241212101146_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Migrations\\20241212101146_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Migrations\\20241212101146_InitialCreate.cs",
+              "RelativeToolTip": "BCSH2_SEM\\Migrations\\20241212101146_InitialCreate.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:11:47.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrainersController.cs",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Controllers\\TrainersController.cs",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Controllers\\TrainersController.cs",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Controllers\\TrainersController.cs",
+              "RelativeToolTip": "BCSH2_SEM\\Controllers\\TrainersController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:09:23.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionsController.cs",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Controllers\\SessionsController.cs",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Controllers\\SessionsController.cs",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Controllers\\SessionsController.cs",
+              "RelativeToolTip": "BCSH2_SEM\\Controllers\\SessionsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:08:45.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "BCSH2_SEM\\Controllers\\MembersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:08:03.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Models\\Trainer.cs",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Models\\Trainer.cs",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Models\\Trainer.cs",
+              "RelativeToolTip": "BCSH2_SEM\\Models\\Trainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:05:25.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Models\\Session.cs",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Models\\Session.cs",
+              "RelativeToolTip": "BCSH2_SEM\\Models\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:05:01.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Models\\Member.cs",
+              "RelativeToolTip": "BCSH2_SEM\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:04:31.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BCSH2_SEM\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T08:58:54.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BCSH2_SEM\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\satte\\Documents\\GitHub\\CSH2_SEM\\BCSH2_SEM\\BCSH2_SEM\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BCSH2_SEM\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:56:39.465Z",
+              "EditorCaption": ""
             }
           ]
         }

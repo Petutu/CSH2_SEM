@@ -1,0 +1,44 @@
+﻿@model TrainerFilterViewModel
+
+<h1>Trainer List</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<form method="get">
+    <div class="form-inline mb-3">
+        <input type="text" name="searchFirstName" value="@Model.SearchFirstName" class="form-control mr-2" placeholder="First Name" />
+        <input type="text" name="searchLastName" value="@Model.SearchLastName" class="form-control mr-2" placeholder="Last Name" />
+        <select name="searchSpecialization" class="form-control mr-2" asp-items="ViewBag.Specializations">
+            <option value="">-- Select Specialization --</option>
+        </select>
+        <button type="submit" class="btn btn-primary">Filter</button>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>Specialization</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Trainers)
+        {
+            <tr>
+                <td>@item.FirstName</td>
+                <td>@item.LastName</td>
+                <td>@item.Specialization</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

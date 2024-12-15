@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BCSH2_SEM.props" />
+</Project>

@@ -1,0 +1,49 @@
+﻿@model SessionFilterViewModel
+
+<h1>Session List</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<form method="get">
+    <div class="form-inline mb-3">
+        <input type="text" name="searchMember" value="@ViewContext.HttpContext.Request.Query["searchMember"]" class="form-control mr-2" placeholder="Member Name" />
+        <input type="text" name="searchTrainer" value="@ViewContext.HttpContext.Request.Query["searchTrainer"]" class="form-control mr-2" placeholder="Trainer Name" />
+        <select name="searchSessionType" class="form-control mr-2" asp-items="ViewBag.SessionTypes">
+            <option value="">-- Select Session Type --</option>
+        </select>
+        <button type="submit" class="btn btn-primary">Filter</button>
+    </div>
+</form>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>SessionDate</th>
+            <th>Duration</th>
+            <th>SessionType</th>
+            <th>Member</th>
+            <th>Trainer</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var session in Model.Sessions)
+        {
+            <tr>
+                <td>@session.SessionDate.ToString("dd.MM.yyyy HH:mm:ss")</td>
+                <td>@session.Duration</td>
+                <td>@session.SessionType</td>
+                <td>@(session.Member != null ? $"{session.Member.FirstName} {session.Member.LastName}" : "No Member")</td>
+                <td>@(session.Trainer != null ? $"{session.Trainer.FirstName} {session.Trainer.LastName}" : "No Trainer")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@session.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@session.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@session.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
